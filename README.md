@@ -33,3 +33,9 @@ with:
 ## How to publish
 
 You can upload this folder to GitHub Pages, your FAMU faculty web space, Netlify, or another static website host.
+
+
+Updated content includes Dr. Nguyen’s professional photo, full publication list, and selected grants section.
+
+
+Update: Google Scholar profile link added to the navigation menu, hero section, Publications section, and Contact section.

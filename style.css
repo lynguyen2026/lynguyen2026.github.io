@@ -397,3 +397,62 @@ a:hover {
     grid-template-columns: 1fr;
   }
 }
+
+
+.compact-publications {
+  gap: 0.85rem;
+}
+
+.compact-publications .publication {
+  padding: 1.05rem 1.25rem;
+}
+
+.compact-publications .publication p {
+  margin: 0;
+}
+
+.grant-card {
+  border-left-color: var(--primary);
+}
+
+
+.contact-grid {
+  align-items: start;
+}
+
+.contact-details {
+  padding: 1.5rem;
+}
+
+.business-card-wrapper {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  box-shadow: var(--shadow);
+  padding: 1rem;
+}
+
+.business-card-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  border-radius: 16px;
+  border: 1px solid var(--border);
+}
+
+
+.text-link-button {
+  display: inline-block;
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
+  border-radius: 999px;
+  border: 1px solid var(--primary);
+  color: var(--primary);
+  font-weight: 800;
+}
+
+.text-link-button:hover {
+  background: var(--primary);
+  color: #fff;
+  text-decoration: none;
+}
